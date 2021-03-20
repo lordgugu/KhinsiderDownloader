@@ -1,6 +1,6 @@
 The console app can be run from VSCode using:
 
-dotnet run <PathToAlbumPage> <TargetFolder>
+dotnet run &lt;PathToAlbumPage&gt; &lt;TargetFolder&gt;
 
 The album pages are found on https://downloads.khinsider.com/game-soundtracks
 
